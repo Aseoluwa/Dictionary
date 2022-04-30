@@ -1,0 +1,22 @@
+/** @format */
+
+.meanings {
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+  overflow-y: scroll;
+  /* border: 2px solid; */
+  overflow-x: hidden;
+  border-radius: 10px;
+}
+.subTitle {
+  font-size: 5vw;
+}
+.defin {
+  padding: 20px;
+  margin-top: 20px;
+}
+
+.Hay {
+    font-size: 18px;
+}

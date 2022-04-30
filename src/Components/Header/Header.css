@@ -1,0 +1,24 @@
+/** @format */
+
+.title {
+  font-size: 7vw;
+  text-transform: uppercase;
+  font-family: "Tapestry", sans-serif;
+}
+.header {
+  padding-top: 5vh;
+  width: 100%;
+}
+
+@media (max-width: 900px) {
+  .header {
+    justify-content: space-between;
+  }
+  .title {
+    font-size: 6vh;
+  }
+}
+
+.search {
+  width: 43%;
+}
